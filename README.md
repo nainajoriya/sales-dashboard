@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard - Excel | SQL | Power BI
+# Sales Performance Dashboard - Excel | SQL | Power BI
 
 ### 📸 Project Overview
 End-to-end sales analysis project covering Data Cleaning, SQL Analysis & Power BI Visualization.
