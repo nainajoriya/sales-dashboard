@@ -23,8 +23,4 @@ End-to-end sales analysis project covering Data Cleaning, SQL Analysis & Power B
 - `Dashboard_Screenshot.png` - Dashboard Image
 
 ### ▶️ Live Demo Video
-[📹 Click here to Watch Demo Video](https://drive.google.com/file/d/19LD5AAI9FXoYthCIl5PXtYaWZD5ALd1L/view?usp=sharing)
-
-
----
-Created by Aanya J | Data Analyst
+[📹 Click here to Watch Demo Video](PASTE YOUR DRIVE LINK HERE)
